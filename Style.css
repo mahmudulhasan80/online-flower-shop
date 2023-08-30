@@ -1,0 +1,89 @@
+/* font-style */
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+.banner {
+    background-color: #E554731A;
+    padding: 70px 0px 0px 100px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.header-content {
+    max-width: 630px;
+}
+
+.pngwing10 {
+    width: 470px;
+    height: 500px;
+    padding: 30px 140px 0px 100px;
+}
+
+.pngwing8 {
+    max-width: 210px;
+    max-height: 320px;
+    display: flex;
+    padding: 40px 40px 40px 100px;
+}
+
+.banner-title {
+    color: #272727;
+    font-size: 50px;
+}
+
+.primary-button {
+    border: 0px;
+    background-color: #E55473;
+    padding: 15px 15px;
+    border-radius: 8px;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 600px;
+    margin-top: 30px;
+}
+
+.normal-para {
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    max-width: 550px;
+}
+
+.featured-flower {
+    color: #272727;
+    text-align: center;
+}
+
+.three-pic {
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 0px 200px 0px;
+    max-width: 800px;
+}
+
+.heading4 {
+    font-size: 40px;
+    margin-top: 170px;
+}
+
+.feature-pic {
+    background: rgba(229, 84, 115, 0.05);
+    display: flex;
+    padding-left: 300px;
+    margin-top: 50px;
+}
+
+.feature-img {
+    width: 310px;
+    height: 228px;
+
+}
+
+.hot-deal {
+    max-width: 600px;
+    /* Set a maximum width for the image */
+    margin-right: 10px;
+    padding-top: 0%;
+}
